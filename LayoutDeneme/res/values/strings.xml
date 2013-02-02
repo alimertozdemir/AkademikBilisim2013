@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab 3</string>
+    <string name="isim">Joe Dalton</string> 
+    <string name="menu_settings">Settings</string>
+    <string name="tag">The leader of the Gang</string> 
+
+</resources>

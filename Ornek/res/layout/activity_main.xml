@@ -7,6 +7,8 @@
     android:orientation="vertical"
     android:padding="14dp"
     tools:context=".MainActivity" >
+    
+    
 
     <TextView
         android:id="@+id/text1"
